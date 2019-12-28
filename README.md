@@ -17,5 +17,5 @@ Alles was für die Aufgaben nötig ist, wird dort gezeigt.
 
 ## Aufgaben
 
-Den Namen einlesen und eine Begrüßung ausgeben: [Beispiel 1](beispiel1.md)
+Den Namen einlesen und eine Begrüßung ausgeben: [Aufgabe 1](aufgabe1.md)
 
