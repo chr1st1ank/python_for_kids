@@ -65,3 +65,27 @@ Ist ein Wert größer oder kleiner?
 
 variable < 7
 ```
+
+## Wenn/dann-Bedingungen
+
+Wenn der Computer etwas entscheiden soll, kann man dafür eine Wenn/dann-Bedingung nutzen (Englisch: if/else).
+Wenn die Bedingung erfüllt ist, führt er die eine Aufgabe aus, wenn sie nicht erfüllt ist, dann die andere.
+
+Einfache Wenn/dann-Bedingung:
+```python
+if variable == 5:
+    print("Die Variable hat den Wert 5")
+else:
+    print("Die Variable ist nicht 5")
+```
+
+Doppelte Wenn/dann-Bedingung:
+```python
+if variable == 5:
+    print("Die Variable hat den Wert 5")
+elif variable == 7:
+    print("Die Variable hat den Wert 7")
+else:
+    print("Die Variable ist weder 5 noch 7")
+```
+
