@@ -1,38 +1,21 @@
-# Python for Kids
-Programmierbeispiele für Kinder
+# Python für Kids
+Programmieraufgaben mit Beispielen für Kinder
 
-## Text einlesen und ausgeben
+## Vorbereitungen
 
-Eine Zeile ausgeben:
-```
-print("Dieser Text wird ausgegeben")
-```
+Um den Aufgaben zu folgen, sollte auf dem Computer [Python](https://python.org) installiert sein und am besten auch
+eine Entwicklungsumgebung wie zum Beispiel [Pycharm Edu](https://www.jetbrains.com/education/)
 
-Eine Zeile einlesen und dazu mit einer Frage oder Ähnlichem auffordern. Die Eingabe wird in der Variablen `text` gespeichert:
-```
-text = input("Was möchtest du mir sagen?")
-```
 
-## Umgang mit Zahlen
-Text in eine Zahl umwandeln und eine Zahl in Text umwandeln:
-```
-# Zahl zu Text:
-text = str(24)
+## Beispiele
 
-# Text zu Zahl (für Ganzzahlen):
-zahl = int("45")
+Um das Programmieren zu lernen, sind auf der Seite [Beispiele](beispiele.md) Programmierbeispiele zusammengestellt,
+die zeigen, wie man bestimmte Aufgaben mit Python lösen kann.
 
-# Text zu Zahl (für Kommazahlen):
-zahl = float("45")
-```
+Alles was für die Aufgaben nötig ist, wird dort gezeigt.
 
-Mit Zahlen rechnen und das Ergebnis in einer Variablen `ergebnis` speichern:
-```
-ergebnis = 5 + 7
 
-ergebnis = 8 - 4
+## Aufgaben
 
-ergebnis = 4 / 2
+Den Namen einlesen und eine Begrüßung ausgeben: [Beispiel 1](beispiel1.md)
 
-ergebnis = 2 * 2
-```
