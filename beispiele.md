@@ -43,3 +43,24 @@ ergebnis = 4 / 2
 
 ergebnis = 2 * 2
 ```
+
+## Wahrheitswerte
+
+Wenn du Werte miteinander vergleichst, dann erhältst du einen Wahrheitswert, den du beispielsweise für Bedingungen
+benutzen kannst, wenn der Computer etwas entscheiden soll.
+
+Ein Wahrheitswert ist immer entweder wahr (englisch "True") oder falsch (englisch "False").
+
+Sind zwei Werte gleich?
+```
+4 == 5
+
+variable == 5
+```
+
+Ist ein Wert größer oder kleiner?
+```python
+4 > 5
+
+variable < 7
+```
