@@ -1,5 +1,5 @@
 
-# Begrüßung mit Namen
+# Aufgabe 1: Begrüßung mit Namen
 
 In dieser Aufgabe geht es darum, einen Namen einzulesen und anschließend eine Begrüßung mit Namen auszugeben.
 

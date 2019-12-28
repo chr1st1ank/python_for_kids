@@ -14,6 +14,12 @@ Eine Zeile einlesen und dazu mit einer Frage oder Ähnlichem auffordern. Die Ein
 text = input("Was möchtest du mir sagen?")
 ```
 
+Den Inhalt einer Variablen in einen Text einfügen und beides zusammen ausgeben. Dazu braucht man ein `f` vor dem
+Anführungszeichen und um die Variable macht man geschweifte Klammern `{}`:
+```
+print(f"Das ist der Text: {text}")
+```
+
 ## Umgang mit Zahlen
 Text in eine Zahl umwandeln und eine Zahl in Text umwandeln:
 ```
