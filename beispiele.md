@@ -51,6 +51,7 @@ benutzen kannst, wenn der Computer etwas entscheiden soll.
 
 Ein Wahrheitswert ist immer entweder wahr (englisch "True") oder falsch (englisch "False").
 
+Um einen Wahrheitswert zu bekommen, benutzt man die Vergleichsoperatoren (`==`, `>`, `<`).
 Sind zwei Werte gleich?
 ```
 4 == 5

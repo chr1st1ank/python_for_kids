@@ -5,6 +5,8 @@ Programmzeile eingibst und der Computer führt sie sofort aus. Das Ergebnis aus 
 
 Probiere folgende Dinge:
 
-1. Ein paar einfache Mathe-Aufgaben mit plus (+), minus (-), Mal (*) und geteilt (/)
-2. Vergleiche Zahlen miteinander, benutze dabei die Vergleichsoperatoren (==, >, <)
+1. Ein paar einfache Mathe-Aufgaben mit plus (+), minus (-), mal (*) und geteilt (/)
+2. Vergleiche Zahlen miteinander, benutze dabei die Vergleichsoperatoren (`==`, `>`, `<`)
 3. Vergleiche Texte miteinander
+4. Probiere auch einmal, eine Zahl oder einen Text in einer Variablen zu speichern und dann mit einem anderen
+   Wert zu vergleichen
