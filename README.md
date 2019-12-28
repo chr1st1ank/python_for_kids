@@ -18,4 +18,5 @@ Alles was für die Aufgaben nötig ist, wird dort gezeigt.
 ## Aufgaben
 
 Den Namen einlesen und eine Begrüßung ausgeben: [Aufgabe 1](aufgabe1.md)
+Taschenrechner für Plus-Rechnen: [Aufgabe 2](aufgabe2.md)
 
