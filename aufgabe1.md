@@ -10,4 +10,6 @@ Gehe dabei wie folgt vor:
 
 Nun baue das Programm noch ein bisschen aus:
 
- - Frage auch nach dem Alter und schreibe dann am Ende: "Hallo, Lukas! Du bist 15 Jahre alt."
+3. Frage auch nach dem Alter und schreibe dann am Ende: "Hallo, Lukas! Du bist 15 Jahre alt."
+
+Eine Lösung zu der Aufgabe findest du hier: [Lösung 1](loesung1.py)
