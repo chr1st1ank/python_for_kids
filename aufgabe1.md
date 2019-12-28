@@ -7,3 +7,7 @@ Gehe dabei wie folgt vor:
 
 1. Fordere dazu auf, den Namen einzutippen und lese den Namen in eine Variable `name` ein.
 2. Gebe eine Begrüßung mit Namen aus, zum Beispiel "Hallo Lukas! Wie geht's?"
+
+Nun baue das Programm noch ein bisschen aus:
+
+ - Frage auch nach dem Alter und schreibe dann am Ende: "Hallo, Lukas! Du bist 15 Jahre alt."
