@@ -1,5 +1,9 @@
 # Python für Kids
-Programmieraufgaben mit Beispielen für Kinder
+Programmieraufgaben mit Beispielen für Kinder.
+
+Anders als bei vielen anderen Programmierkursen ist die Zielgruppe hier sehr jung, d.h. bereits Grundschulalter. 
+Allerdings wird auch davon ausgegangen, dass ein Erwachsener mit Programmiererfahrung mit Rat und Erklärungen zur
+Seite steht.
 
 ## Vorbereitungen
 
@@ -9,8 +13,8 @@ eine Entwicklungsumgebung wie zum Beispiel [Pycharm Edu](https://www.jetbrains.c
 
 ## Beispiele
 
-Um das Programmieren zu lernen, sind auf der Seite [Beispiele](beispiele.md) Programmierbeispiele zusammengestellt,
-die zeigen, wie man bestimmte Aufgaben mit Python lösen kann.
+Um das Programmieren zu lernen, sind auf der Seite [Beispiele](beispiele.md) Programmierbeispiele und Erklärungen
+zusammengestellt, die zeigen, wie man bestimmte Aufgaben mit Python lösen kann.
 
 Alles was für die Aufgaben nötig ist, wird dort gezeigt.
 

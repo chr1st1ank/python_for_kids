@@ -1,8 +1,34 @@
 # Programmierbeispiele
 
-In der folgenden Übersicht findest du Beispiele, wie bestimmte Aufgaben mit Python gelöst werden können.
+In der folgenden Übersicht findest du Beispiele und Erklärungen, wie bestimmte Aufgaben mit Python gelöst werden können.
 
-## Text einlesen und ausgeben
+## Variablen und Datentypen
+
+Variablen können benutzt werden, wenn der Computer sich etwas merken soll. Du kannst Werte oder Zeichenketten darin
+speichern. Variablennamen kann man sich frei ausdenken. Allerdings darf man dabei nur normale Buchstaben und Zahlen 
+verwenden, sowie das Zeichen "_". Man benutzt dabei normalerweise nur Kleinbuchstaben.
+
+Hier ein paar Beispiele:
+```python
+text = "Ein kleiner Satz zum merken"
+
+zahl = 12345
+kommazahl = 4.5
+```
+
+Fällt dir etwas auf? Für den Satz, den wir in der Variablen `text` gespeichert haben, haben wir Anführungszeichen 
+gebraucht. Das liegt daran, dass wir eine Zeichenkette gespeichert haben. Die Variable hat jetzt den Typ "Zeichenkette"
+(englisch "string").
+Die anderen beiden Variablen haben jeweils einen Zahlentyp. `zahl` ist vom Typ "integer", das heißt "ganze Zahl".
+`kommazahl` ist vom Typ "float", das heißt Kommazahl.
+
+Hier haben wir also drei Typen:
+- string: Eine Zeichenkette. Zeichenketten kann man miteinander vergleichen oder verändern, zum Beispiel Wörter anhängen.
+- integer: Eine Ganzahl. Mit ihr kann man rechnen.
+- float: Eine Kommazahl. Auch damit kann man rechnen. 
+
+
+## Zeichenketten einlesen und ausgeben
 
 Eine Zeile ausgeben:
 ```
@@ -14,22 +40,22 @@ Eine Zeile einlesen und dazu mit einer Frage oder Ähnlichem auffordern. Die Ein
 text = input("Was möchtest du mir sagen?")
 ```
 
-Den Inhalt einer Variablen in einen Text einfügen und beides zusammen ausgeben. Dazu braucht man ein `f` vor dem
+Den Inhalt einer Variablen in eine Zeichenkette einfügen und beides zusammen ausgeben. Dazu braucht man ein `f` vor dem
 Anführungszeichen und um die Variable macht man geschweifte Klammern `{}`:
 ```
 print(f"Das ist der Text: {text}")
 ```
 
 ## Umgang mit Zahlen
-Text in eine Zahl umwandeln und eine Zahl in Text umwandeln:
+Zeichenketten in eine Zahl umwandeln und eine Zahl in eine Zeichenkette umwandeln:
 ```
-# Zahl zu Text:
+# Zahl zu Zeichenkette:
 text = str(24)
 
-# Text zu Zahl (für Ganzzahlen):
+# Zeichenkette zu Zahl (für Ganzzahlen):
 zahl = int("45")
 
-# Text zu Zahl (für Kommazahlen):
+# Zeichenkette zu Zahl (für Kommazahlen):
 zahl = float("45")
 ```
 
