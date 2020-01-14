@@ -13,3 +13,15 @@ Wie viel ist 5+5?
 10
 Das ist richtig!
 ```
+
+
+## Hinweise:
+
+Hier brauchst du eine Wenn/dann-Bedingung. So etwas sieht zum Beispiel so aus:
+
+```python
+if variable == 5:
+    print("Die Variable hat den Wert 5")
+else:
+    print("Die Variable ist nicht 5")
+```

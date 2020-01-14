@@ -12,4 +12,21 @@ Nun baue das Programm noch ein bisschen aus:
 
 3. Frage auch nach dem Alter und schreibe dann am Ende: "Hallo, Lukas! Du bist 15 Jahre alt."
 
+
+## Hinweise:
+Für diese Aufgabe brauchst du zwei Dinge.
+
+1. Einen Text ausgeben:
+
+```python
+print("Hallo, du!")
+```
+
+2. Eine Zeile einlesen, die jemand auf der Tastatur eingibt:
+
+```python
+eingabe = input()
+```
+
+
 Eine Lösung zu der Aufgabe findest du hier: [Lösung 1](loesung1.py)
