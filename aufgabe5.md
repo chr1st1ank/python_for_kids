@@ -20,3 +20,6 @@ from random import randint
 
 randint(2, 5)
 ```
+
+Eine Lösung zu der Aufgabe findest du hier: [Lösung 5](loesung5.py)
+

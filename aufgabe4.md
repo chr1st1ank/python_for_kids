@@ -7,7 +7,7 @@ Lasse den Computer etwas mit einer Wenn/dann-Bedingung entscheiden. Schreibe daz
  1. Überprüfe, ob die Zahl das richtige Ergebnis für die Rechenaufgabe ist (mit einer Wenn/dann-Bedingung).
  1. Sage dem Benutzer, dass er die Aufgabe richtig oder falsch beantwortet hat.
  
-Die Ausgabe des Programms kann zum Beispiel so aussehen:
+Die Ausgabe des Programms könnte zum Beispiel so aussehen:
 ```
 Wie viel ist 5+5?
 10
@@ -25,3 +25,7 @@ if variable == 5:
 else:
     print("Die Variable ist nicht 5")
 ```
+
+
+Eine Lösung zu der Aufgabe findest du hier: [Lösung 4](loesung4.py)
+
