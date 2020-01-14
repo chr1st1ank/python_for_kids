@@ -25,4 +25,5 @@ Alles was für die Aufgaben nötig ist, wird dort gezeigt.
 - Taschenrechner für Plus-Rechnen: [Aufgabe 2](aufgabe2.md)
 - Wahrheitswerte und die Python-Konsole: [Aufgabe 3](aufgabe3.md)
 - Wenn/dann-Bedingungen: [Aufgabe 4](aufgabe4.md)
+- Zufallszahlen: [Aufgabe 5](aufgabe5.md)
 
