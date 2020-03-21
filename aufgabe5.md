@@ -8,7 +8,7 @@ wird, soll nach anderen Zahlen gefragt werden.
  
 ## Hinweise:
 
-Hier brauchst du eine Funktion, die dir eine Zufallszahl erzeugt. Glücklicherweise
+Du brauchst eine Funktion, die dir eine Zufallszahl erzeugt. Glücklicherweise
 werden mit Python ganz viele Funktionen in sogenannten Modulen mitgeliefert. 
 Sie kannst du importieren und benutzen. Hier brauchen wir die Funktion `randint` aus
 dem Modul `random`

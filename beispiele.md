@@ -115,3 +115,49 @@ else:
     print("Die Variable ist weder 5 noch 7")
 ```
 
+## Funktionen
+
+Bisher haben wir alles was der Computer tun soll untereinander geschrieben. Wenn er es mehrfach tun sollte,
+haben wir es mehrfach hingeschrieben.
+
+Man kann Dinge, die man mehrmals braucht aber auch in einer sogenannten "Funktion" zusammenfassen, die man
+dann immer wieder benutzen kann. Eine Funktion, kann Variablen entgegennehmen und welche zurückgeben.
+
+### Fertige Funktionen
+Es gibt ganz viele fertige Funktionen, die man einfach benutzen kann. Einige Beispiele hast du schon 
+gesehen. Zum Beispiel die Funktion `print()`, die etwas auf dem Bildschirm ausgibt.
+Die Funktion print gibt alle Variablen aus, die du ihr zwischen den Klammern übergibst.
+Zum Beispiel: `print("Hallo")`
+
+Es gibt noch viel 
+mehr Funktionen, für die man ein "Paket" importieren muss. Zum Beispiel die Funktion `randint()`, die
+eine zufällige Zahl ausgibt. So zum Beispiel bekommst du eine Zahl zwischen zwei und fünf.
+
+```python
+from random import randint
+
+randint(2, 5)
+``` 
+Diese Funktion nimmt zwei Variablen entgegen und gibt eine zurück.
+
+Wenn du die Funktion mehrfach brauchst, musst du sie trotzdem nur einmal importieren.
+
+### Eigene Funktionen
+Du kannst auch eine eigene Funktion schreiben. Zum Beispiel folgende Funktion, die 
+zwei Variablen entgegennimmt. Sie rechnet die beiden Zahlen zusammen und gibt dann zurück,
+wie viel die Summe ist:
+
+```python
+def summe(zahl1, zahl2):
+    return zahl1 + zahl2
+```
+
+Das was hinter "return" kommt, ist der Rückgabewert der Funktion. Du kannst also dann
+woanders diesen Wert benutzen. Zum Beispiel:
+
+```python
+ergebnis1 = summe(2, 5)
+ergebnis2 = summe(3, 8)
+```
+
+Hier benutzen wir unsere eigene Funktion zweimal und speichern jeweils das Ergebnis.
