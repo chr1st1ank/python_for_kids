@@ -161,3 +161,18 @@ ergebnis2 = summe(3, 8)
 ```
 
 Hier benutzen wir unsere eigene Funktion zweimal und speichern jeweils das Ergebnis.
+
+
+## Schleifen
+
+Wenn du Dinge immer wiederholen willst, so kannst du eine Schleife benutzen. Zum 
+Beispiel gibt folgende Schleife die Zahlen von 1 bis 10 aus:
+
+```python
+for zahl in range(1, 11):
+    print(zahl)
+``` 
+
+Die Funktion `range(erste_zahl, ende_zahl)` gibt dabei der Reihe nach Zahlen 
+zurück, angefangen von `erste_zahl`. Sie hört aber auf, bevor sie die Zahl `ende_zahl`
+erreicht. 
