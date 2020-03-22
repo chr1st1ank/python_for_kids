@@ -23,3 +23,5 @@ Zum Beispiel soll das so aussehen:
 
 Benutze dabei für jede der Ausgaben eine eigene Funktion. Dann musst du nicht so viel
 Code mehrmals schreiben.
+
+Eine Lösung zu der Aufgabe findest du hier: [Lösung 6](loesung6.py)

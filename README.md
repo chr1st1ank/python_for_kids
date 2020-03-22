@@ -26,4 +26,5 @@ Alles was für die Aufgaben nötig ist, wird dort gezeigt.
 - Wahrheitswerte und die Python-Konsole: [Aufgabe 3](aufgabe3.md)
 - Wenn/dann-Bedingungen: [Aufgabe 4](aufgabe4.md)
 - Zufallszahlen: [Aufgabe 5](aufgabe5.md)
-
+- Funktionen: [Aufgabe 6](aufgabe6.md)
+- For-Schleife: [Aufgabe 7](aufgabe7.md)
