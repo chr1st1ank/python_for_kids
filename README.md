@@ -28,3 +28,4 @@ Alles was für die Aufgaben nötig ist, wird dort gezeigt.
 - Zufallszahlen: [Aufgabe 5](aufgabe5.md)
 - Funktionen: [Aufgabe 6](aufgabe6.md)
 - For-Schleife: [Aufgabe 7](aufgabe7.md)
+- Dictionaries: [Aufgabe 8](aufgabe8.md)

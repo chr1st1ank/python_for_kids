@@ -176,3 +176,47 @@ for zahl in range(1, 11):
 Die Funktion `range(erste_zahl, ende_zahl)` gibt dabei der Reihe nach Zahlen 
 zurück, angefangen von `erste_zahl`. Sie hört aber auf, bevor sie die Zahl `ende_zahl`
 erreicht. 
+
+
+## Das Dictionary
+
+"Dictionary" ist englisch und bedeutet "Wörterbuch". In Python ist ein Dictionary ein
+Object, in dem man Dinge genau wie in einem Wörterbuch unter einem bestimmten 
+Stichwort ablegen und später wiederfinden kann. Das Stichwort nennt man den "Key", 
+das bedeutet "Schlüssel". Das Ding, das man unter so einem Key ablegt, nennt man den
+"Wert" oder englisch "Value".
+
+Anlegen eines leeren Dictionary, speichern von zwei Werten und Ausgabe eines der Werte:
+```python
+d = {}
+
+d["schluessel"] = "Wert"
+d[5] = 12345
+
+print(d[5])
+print(d["schluessel"])
+``` 
+
+Man kann auch einen Wert wie folgt wieder löschen:
+```python
+del d[5]
+``` 
+Jetzt ist nur noch der Key "schluessel" enthalten.
+
+Alle vorhandenen Keys oder Werte bekommt man so:
+```python
+d.keys()
+
+d.values()
+```
+
+Wenn man nicht weiß, ob ein bestimmter Key (hier "x") vorhanden ist, so kann man dazu 
+eine Wenn-Bedingung benutzen:
+```python
+d = {1: "ein Wert", 2: "noch ein Wert"}
+
+if x in d:
+    print("x ist als Key in d vorhanden")
+else:
+    print("x ist nicht als Key in d vorhanden")
+```
